@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/DecryptStranger-android/!svn/ver/1001/trunk/src/com/sevele/ds/utils
+END
+PhotoHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DecryptStranger-android/!svn/ver/1000/trunk/src/com/sevele/ds/utils/PhotoHandler.java
+END
+UIHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/DecryptStranger-android/!svn/ver/436/trunk/src/com/sevele/ds/utils/UIHelper.java
+END
+onImageLoaderListenerImp.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/DecryptStranger-android/!svn/ver/548/trunk/src/com/sevele/ds/utils/onImageLoaderListenerImp.java
+END
+ImageDownLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DecryptStranger-android/!svn/ver/1016/trunk/src/com/sevele/ds/utils/ImageDownLoader.java
+END
+TimeUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/DecryptStranger-android/!svn/ver/1001/trunk/src/com/sevele/ds/utils/TimeUtil.java
+END
+ImageTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/DecryptStranger-android/!svn/ver/998/trunk/src/com/sevele/ds/utils/ImageTool.java
+END
+isIntegerUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DecryptStranger-android/!svn/ver/740/trunk/src/com/sevele/ds/utils/isIntegerUtil.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/DecryptStranger-android/!svn/ver/818/trunk/src/com/sevele/ds/utils/Util.java
+END
+FileUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/DecryptStranger-android/!svn/ver/854/trunk/src/com/sevele/ds/utils/FileUtils.java
+END
+LogUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/DecryptStranger-android/!svn/ver/87/trunk/src/com/sevele/ds/utils/LogUtil.java
+END

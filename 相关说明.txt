@@ -1,0 +1,5 @@
+一.关于文件命名： 
+	1.如果是头像的话，采取上传到七牛服务器的命名规则是  用户帐号+head.jpg 同意命名规则，  例如用户的帐号是  logo   那么上传到七牛服务器的头像名次是  logohead.jpg 以保证名称唯一  注：上传头像文件有专门的获取的七牛token
+	      如果是语音文件的话采取的是  用户id+当前时间。amr  例如用户id是1  那么语音上传到七牛服务器的语音文件名为  1+system.currentTime.amr
+	2.本地文件保存规则       SDCard/Android/data/应用的包名/audioFiles/   语音文件夹              SDCard/Android/data/应用的包名/imgFiles/ 图片文件夹
+	     

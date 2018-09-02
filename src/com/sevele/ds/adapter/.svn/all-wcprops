@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/DecryptStranger-android/!svn/ver/993/trunk/src/com/sevele/ds/adapter
+END
+ImageGridAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DecryptStranger-android/!svn/ver/982/trunk/src/com/sevele/ds/adapter/ImageGridAdapter.java
+END
+MyAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/DecryptStranger-android/!svn/ver/983/trunk/src/com/sevele/ds/adapter/MyAdapter.java
+END
+ChatAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/DecryptStranger-android/!svn/ver/1038/trunk/src/com/sevele/ds/adapter/ChatAdapter.java
+END
+PushAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DecryptStranger-android/!svn/ver/963/trunk/src/com/sevele/ds/adapter/PushAdapter.java
+END
+FriendsListAdatpter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DecryptStranger-android/!svn/ver/980/trunk/src/com/sevele/ds/adapter/FriendsListAdatpter.java
+END
+ImageBucketAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DecryptStranger-android/!svn/ver/981/trunk/src/com/sevele/ds/adapter/ImageBucketAdapter.java
+END
+StrangerListAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DecryptStranger-android/!svn/ver/765/trunk/src/com/sevele/ds/adapter/StrangerListAdapter.java
+END

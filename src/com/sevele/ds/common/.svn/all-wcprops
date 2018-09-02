@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/DecryptStranger-android/!svn/ver/990/trunk/src/com/sevele/ds/common
+END
+DbOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/DecryptStranger-android/!svn/ver/936/trunk/src/com/sevele/ds/common/DbOperation.java
+END
+SoundMeter.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/DecryptStranger-android/!svn/ver/1018/trunk/src/com/sevele/ds/common/SoundMeter.java
+END
+RefreshListView.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DecryptStranger-android/!svn/ver/988/trunk/src/com/sevele/ds/common/RefreshListView.java
+END
+HandleResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DecryptStranger-android/!svn/ver/967/trunk/src/com/sevele/ds/common/HandleResult.java
+END
+SdcardMountedCheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/DecryptStranger-android/!svn/ver/989/trunk/src/com/sevele/ds/common/SdcardMountedCheck.java
+END

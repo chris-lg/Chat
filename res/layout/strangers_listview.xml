@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:background="@color/white" >
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="65dp"
+        android:background="@drawable/user_relative_selector" >
+
+        <FrameLayout
+            android:id="@+id/head_layout"
+            android:layout_width="55dp"
+            android:layout_height="55dp"
+            android:layout_margin="10dp"
+            android:layout_centerVertical="true" >
+
+            <ImageView
+                android:id="@+id/stranger_head"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/all_avatar_user_default" 
+                android:scaleType="centerCrop"/>
+
+            <LinearLayout
+                android:id="@+id/push_layout"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="top|right"
+                android:visibility="gone" >
+
+                <TextView
+                    android:id="@+id/messageCount"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/tab_unread_bg"
+                    android:gravity="center"
+                    android:text=""
+                    android:textColor="@android:color/white"
+                    android:textSize="10.0dip" />
+            </LinearLayout>
+        </FrameLayout>
+
+        <RelativeLayout
+            android:id="@+id/stranger_info"
+            android:layout_width="wrap_content"
+            android:layout_height="55dp"
+            android:layout_toRightOf="@id/head_layout"
+            android:visibility="invisible"
+            android:layout_centerVertical="true" >
+
+            <TextView
+                android:id="@+id/stranger_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:textColor="@color/black" />
+
+            <ImageView
+                android:id="@+id/stranger_gender"
+                android:layout_width="15dp"
+                android:layout_height="15dp"
+                android:layout_marginTop="5dp"
+                android:layout_toRightOf="@id/stranger_name" />
+
+            <TextView
+                android:id="@+id/stranger_distance"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/stranger_name"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/frenchgrey" />
+
+            <TextView
+                android:id="@+id/stranger_access"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:text="" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/friend_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/head_layout"
+            android:text="name"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:visibility="invisible" />
+        
+        <ImageView 
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/frenchgrey"
+            android:layout_alignParentBottom="true"/>
+        <ImageView 
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/frenchgrey"
+            android:layout_alignParentTop="true"/>
+    </RelativeLayout>
+
+</RelativeLayout>

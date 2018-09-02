@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/DecryptStranger-android/!svn/ver/422/trunk/src/com/qiniu/storage
+END
+FormUploader.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/DecryptStranger-android/!svn/ver/422/trunk/src/com/qiniu/storage/FormUploader.java
+END
+ResumeUploader.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/DecryptStranger-android/!svn/ver/422/trunk/src/com/qiniu/storage/ResumeUploader.java
+END
+BucketManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/DecryptStranger-android/!svn/ver/422/trunk/src/com/qiniu/storage/BucketManager.java
+END
+UploadManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/DecryptStranger-android/!svn/ver/422/trunk/src/com/qiniu/storage/UploadManager.java
+END

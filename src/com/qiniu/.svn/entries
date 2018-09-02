@@ -1,0 +1,40 @@
+8
+
+dir
+1004
+http://code.taobao.org/svn/DecryptStranger-android/trunk/src/com/qiniu
+http://code.taobao.org/svn/DecryptStranger-android
+
+
+
+2015-05-28T08:46:44.496031Z
+973
+liuge
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4612cd76-46d5-4f03-8d3f-699a09f191f4
+
+common
+dir
+
+http
+dir
+
+storage
+dir
+
+util
+dir
+

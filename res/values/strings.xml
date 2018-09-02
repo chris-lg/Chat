@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">解密陌生人</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="txtBack">返回</string>
+    <string name="txtTitle">标题</string>
+    <!-- 登录界面 -->
+    <string name="username_hint">请输入用户名</string>
+    <string name="password_hint">请输入密码</string>
+    <string name="do_login">登 录</string>
+    <string name="login_remamber_psw">记住密码</string>
+    <string name="login_auto">自动登录</string>
+    <string name="register"><u>没有帐号？注册一个</u></string>
+    <!-- 界面标题 -->
+    <string name="txtMessage_title">消息</string>
+    <string name="txtContacts_title">我的好友</string>
+    <string name="txtFind_title">发现</string>
+    <string name="txtUser_title">个人中心</string>
+    <string name="txtSensor_title">摇一摇</string>
+    <string name="txtLocation_title">附近的人</string>
+    <string name="txtUserInfo_title">个人信息</string>
+    <string name="txtRegister_title">注册</string>
+    <string name="txtSetting_title">设置</string>
+    <string name="txtAbout_title">关于</string>
+    <string name="txtIntroduction_title">解密陌生人</string>
+    
+     <!-- 主界面 -->
+     
+    <string name="txt_message">消息</string>
+    <string name="txt_contacts">联系人</string>
+    <string name="txt_find">解密</string>
+    <string name="txt_user">个人中心</string>
+
+    <!-- 摇一摇界面 -->
+    <string name="shaked_stranger">摇到的人</string>
+    <string name="people_details_info">详细资料</string>
+    <string name="txtFind">“闲着没事儿摇一摇”</string>
+    <string name="txtFound_strangers">“那些年，我们解密失败的朋友”</string>
+    <string name="txtGame">“先玩会儿游戏吧”</string>
+    <!-- 个人中心界面 -->
+    <string name="txtUserinfo">个人信息</string>
+    <string name="txtUsersign">个性签名</string>
+    <string name="txtAbout">关于</string>
+    <string name="txtSetting">设置</string>
+    <string name="txtLogout">切换帐号</string>
+    <!-- 个人信息界面 -->
+    <string name="txt_userphoto">头像</string>
+    <string name="txt_nickname">昵称</string>
+    <string name="txt_username">帐号</string>
+    <string name="txt_gender">性别</string>
+    <string name="txt_age">年龄</string>
+    <string name="txt_area">地区</string>
+    <string name="txt_explain">个性签名</string>
+
+    <!-- 注册界面 -->
+    <string name="user_count">帐号:</string>
+    <string name="user_name">昵称:</string>
+    <string name="user_pwd">密码:</string>
+    <string name="user_yearsold">年龄:</string>
+    <string name="user_regist_sure">注  册</string>
+    <string name="user_gender">您是:</string>
+    <string name="user_count_hint">请设置帐号</string>
+    <string name="user_name_hint">请设置昵称</string>
+    <string name="user_pwd_hint">请设置密码</string>
+    <string name="user_yearsold_hint">您的年龄</string>
+    
+    <!-- 聊天界面 -->
+    <string name="btn_send">发送</string>
+    <string name="btn_record">按住说话</string>
+    <string name="photo">图片</string>
+    <string name="camera">相机</string>
+    
+    <!-- 头像选择窗口界面 -->
+    <string name="takephoto">拍照</string>
+    <string name="choosephoto">从图库中选</string>
+    <string name="cancel">取消</string>   
+
+    <!-- 解密游戏界面 -->
+    <string name="newgame">重新开始</string>
+    <string name="seekhelp">求助好友</string>
+    <!-- 设置界面 -->
+    <string name="txtCahtbg">聊天背景</string>
+    <string name="txtDecryption">解密难度</string>
+    <string name="txtExit">退出</string>
+    <!-- 关于界面 -->
+    <string name="txtVersions">解密陌生人 V1.0</string>
+    <string name="txtIntroduced">软件介绍</string>
+    <string name="txtUpdate">检查新版本</string>
+    <string name="Introduction">解密陌生人交友软件，帮助您建立您身边的朋友圈，以建立人与人之间的关系为目标。本应用包含基本的社交应用元素，并通过具有趣味的游戏促进人与人之间的社交关系。</string>
+    <!-- 网络 -->
+    <string name="please_connect_net">请正确连接网络</string>
+    <string name="send">发送</string>
+    <string name="album"> 相册</string>
+    <string name="need_choose_images">请选择图片～</string>
+
+    <!-- 提示信息 -->
+    <string name="find_friends_one">搜索联系人</string>
+    <string name="find_friends_two">请输入联系人的昵称</string>
+    <string name="find_friends_hint">查找您的联系人</string>
+    <string name="btn_find_friends">搜 索</string>
+    <string name="strangerlist_hint">没有陌生人，快去摇一摇吧</string>
+
+</resources>

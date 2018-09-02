@@ -1,0 +1,70 @@
+8
+
+dir
+1031
+http://code.taobao.org/svn/DecryptStranger-android/trunk/res
+http://code.taobao.org/svn/DecryptStranger-android
+
+
+
+2015-05-29T05:24:20.245065Z
+1031
+liuge
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4612cd76-46d5-4f03-8d3f-699a09f191f4
+
+anim
+dir
+
+drawable
+dir
+
+drawable-hdpi
+dir
+
+drawable-ldpi
+dir
+
+drawable-mdpi
+dir
+
+drawable-xhdpi
+dir
+
+drawable-xxhdpi
+dir
+
+layout
+dir
+
+menu
+dir
+
+values
+dir
+
+values-sw600dp
+dir
+
+values-sw720dp-land
+dir
+
+values-v11
+dir
+
+values-v14
+dir
+

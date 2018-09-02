@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/DecryptStranger-android/!svn/ver/38/trunk/sql
+END
+resources.ap_
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/DecryptStranger-android/!svn/ver/153/trunk/sql/resources.ap_
+END
+user.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/DecryptStranger-android/!svn/ver/38/trunk/sql/user.sql
+END
+friends_list.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/DecryptStranger-android/!svn/ver/38/trunk/sql/friends_list.sql
+END
+chat_content.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/DecryptStranger-android/!svn/ver/38/trunk/sql/chat_content.sql
+END

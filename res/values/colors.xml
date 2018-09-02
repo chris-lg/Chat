@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="color_calendar_border">#ff009c</color>
+    <color name="color_calendar_title_gregorian">#cfff</color>
+    <color name="color_calendar_title_lunar">#cfff</color>
+    <color name="color_calendar_title_start">#c000</color>
+    <color name="color_calendar_title_end">#6000</color>
+    <color name="color_calendar_title_addition">#f63</color>
+    <color name="color_calendar_weekindex">#3fff</color>
+    <color name="color_calendar_weekindex_background">#369f</color>
+    <color name="color_calendar_weekend">#9fff</color>
+    <color name="color_calendar_weekend_background">#3f99</color>
+    <color name="color_calendar_header">#9fff</color>
+    <color name="color_calendar_header_background">#6000</color>
+    <color name="color_calendar_outrange">#fddd</color>
+    <color name="color_calendar_outrange_background">#3fff</color>
+    <color name="color_calendar_normal_gregorian">#cfff</color>
+    <color name="color_calendar_normal_lunar">#9fff</color>
+    <color name="color_calendar_normal_background">#ffff</color>
+    <color name="color_calendar_today_gregorian">#cfff</color>
+    <color name="color_calendar_today_lunar">#9fff</color>
+    <color name="color_calendar_today_background">#06c</color>
+    <color name="color_calendar_solarterm">#c0c3</color>
+    <color name="color_calendar_festival">#ffa0</color>
+    <color name="color_calendar_pressed">#306c</color>
+    <color name="color_calendar_focused">#606c</color>
+
+    <!-- 浅灰色 -->
+    <color name="frenchgrey">#fddd</color>
+    <color name="frenchgrey_2">#999999</color>
+    <color name="frenchgrey_3">#f777</color>
+    <color name="frenchgrey_4">#feee</color>
+    <color name="color_1">#e883bc</color>
+    <color name="color_2">#a083e8</color>
+    <color name="color_3">#7e7e7e</color>
+    <color name="color_4">#1e9273</color>
+    <color name="color_5">#6acfb6</color>
+    <color name="color_6">#cdc437</color>
+    <color name="color_7">#d28b01</color>
+    <color name="color_8">#06bfab</color>
+    <color name="color_9">#76a7df</color>
+    <color name="color_10">#cbb225</color>
+
+    <!-- 淡紫色 -->
+    <color name="orchid">#ffda70d6</color>
+    <!-- 暗肉色 -->
+    <color name="darksalmon">#ff6633</color>
+    <!-- 紫罗兰色 -->
+    <color name="violet">#ffee82ee</color>
+    <!-- 珊瑚色 -->
+    <color name="coral">#ffff7f50</color>
+    <!-- 天蓝色 -->
+    <color name="skyblue">#ff0cd4ff</color>
+    <color name="fens">#FFCCCC</color>
+    <color name="zhis">#CCCCFF</color>
+
+    <!-- 浅绿色 -->
+    <color name="frenchgreen">#00cc66</color>
+    <!-- 分割线 -->
+    <color name="divison">#333366</color>
+
+    <!-- 空 -->
+    <color name="sora">#6699cc</color>
+    <!-- 露草 -->
+    <color name="tsuyukusa">#3399cc</color>
+    <color name="tsuyukusa2">#669999</color>
+    <!-- 深绿色 -->
+    <color name="darkgreen">#0d6706</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#808080</color>
+    <color name="one">#FFF5EE</color>
+    <color name="normal_red">#ff3333</color>
+    <color name="pressed_red">#990000</color>
+    <color name="red">#FF0000</color>
+    <color name="gold">#FFD700</color>
+    <color name="yellow">#FFCC99</color>
+    <color name="green">#CCFF99</color>
+    <color name="blue">#0099ff</color>
+    <color name="whiteblue">#ff00bfff</color>
+    <color name="purple">#800080</color>
+    <color name="pink">#FFC0CB</color>
+    <color name="course_pink">#ff3333</color>
+    <color name="course_red">#ff0033</color>
+    <color name="course_green">#00ff33</color>
+    <color name="course_blue">#00ff99</color>
+    <color name="course_coffee">#666666</color>
+    <color name="course_purple">#996699</color>
+    <color name="course_pink_white">#cc9966</color>
+    <color name="course_green_white">#339966</color>
+    <color name="course_blue_white">#339999</color>
+    <color name="orange">#ffcc33</color>
+    <color name="lemonyellow">#FFFACD</color>
+    <color name="graywhite">#F5F5F5</color>
+    <color name="grayslate">#708090</color>
+    <color name="lightblue">#0083FF</color>
+    <color name="full_transparent">#00000000</color>
+    <color name="half_transparent">#aa000000</color>
+    <color name="bright_foreground_light">#ff000000</color>
+    <color name="bright_foreground_light_inverse">#ffffffff</color>
+    <color name="bright_foreground_light_disabled">#80000000</color>
+    <color name="dim_foreground_light">#808080</color>
+    <color name="dim_foreground_light_disabled">#80323232</color>
+    <color name="dim_foreground_light_inverse">#ff006eaa</color>
+    <color name="dim_foreground_light_inverse_disabled">#80bebebe</color>
+    <color name="head_text">#0e5986</color>
+    <color name="author_text">#0e5986</color>
+    <color name="face_bg">#eef1f4</color>
+    <color name="frame_button_text_nor">#033a5c</color>
+    <color name="frame_button_text_select">#FFFFFF</color>
+    <color name="listitem_transparent">#00000000</color>
+    <color name="listitem_black">#ff000000</color>
+    <color name="listitem_white">#ffffffff</color>
+    <color name="listitem_blue">#0e5986</color>
+    <color name="listitem_gray">#ff9da19e</color>
+    <color name="listitem_green">#ffe3ffc6</color>
+    <color name="listitem_greenyellow">#ff87b869</color>
+    <color name="listitem_yellow">#fffaffbf</color>
+
+</resources>

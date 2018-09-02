@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.decryptstranger"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="19" />
+
+    <!-- 录音 -->
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+
+    <application
+        android:name="com.sevele.ds.app.DsApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/app_icon"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+
+        <!-- 高德地图所用Key -->
+        <meta-data
+            android:name="com.amap.api.v2.apikey"
+            android:value="e2565da27f334ac03d5248b5c428f3dc" />
+
+        <activity
+            android:name="com.sevele.ds.activity.SplashActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!-- 登录界面 -->
+        <activity android:name="com.sevele.ds.activity.LoginActivity" >
+        </activity>
+        <!-- 主界面 -->
+        <activity
+            android:name="com.sevele.ds.activity.MainActivity"
+            android:theme="@style/Theme.ActivityTheme" >
+        </activity>
+        <activity android:name="com.sevele.ds.activity.RegisterActivity" >
+        </activity>
+        <!-- “摇一摇”界面 -->
+        <activity android:name="com.sevele.ds.activity.SensorActivity" >
+        </activity>
+        <!-- 定位界面 -->
+        <activity android:name="com.sevele.ds.activity.LocationActivity" >
+        </activity>
+        <!-- 摇到的人界面 -->
+        <activity android:name="com.sevele.ds.activity.StrangerShakedActivity" >
+        </activity>
+        <!-- 好友信息界面 -->
+        <activity android:name="com.sevele.ds.activity.InfoDetailsActivity" >
+        </activity>
+        <!-- 聊天界面 -->
+        <activity android:name="com.sevele.ds.activity.ChatActivity" >
+        </activity>
+        <!-- 解密游戏界面 -->
+        <activity android:name="com.sevele.ds.activity.DecryptgameActivity" >
+        </activity>
+        <!-- 用户个人信息界面 -->
+        <activity android:name="com.sevele.ds.activity.UserInfoActivity" >
+        </activity>
+        <!-- 设置界面 -->
+        <activity android:name="com.sevele.ds.activity.SettingActivity" >
+        </activity>
+        <!-- 关于界面 -->
+        <activity android:name="com.sevele.ds.activity.AboutActivity" >
+        </activity>
+        <!-- 软件介绍界面 -->
+        <activity android:name="com.sevele.ds.activity.IntroductionActivity" >
+        </activity>
+        <activity
+            android:name="com.sevele.ds.activity.PickPhotoActivity"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="com.sevele.ds.activity.ImageGridActivity"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="com.sevele.ds.activity.PreviewActivity"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <activity android:name="com.sevele.ds.activity.TitleBarActivity" >
+        </activity>
+        <activity android:name="com.sevele.ds.activity.FindFriendsActivity" >
+        </activity>
+
+        <service
+            android:name="com.sevele.ds.broadcast.ReceiveMsgService"
+            android:enabled="true"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+        </service>
+        <service android:name="com.sevele.ds.ddpush.OnlineService" >
+        </service>
+
+        <receiver android:name="com.sevele.ds.ddpush.TickAlarmReceiver" >
+            <intent-filter>
+                <action android:name="android.net.conn.TickAlarmReceiver" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.sevele.ds.ddpush.ConnectivityAlarmReceiver"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.sevele.ds.ddpush.BootAlarmReceiver"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.EXIT_DDPUSHSERVICE" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.sevele.ds.fragment.MessageFragment$pushMessageBroadcast"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.com.sevele.ds.broadcast.updatePushPage" />
+                <action android:name="android.com.sevele.ds.broadcast.addFriend" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.sevele.ds.fragment.ContactsFragment$addFriendReceiver"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.com.sevele.ds.broadcast.addFriend" />
+                <action android:name="android.com.sevele.ds.broadcast.addFriendOk" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

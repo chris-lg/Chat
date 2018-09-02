@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/DecryptStranger-android/!svn/ver/422/trunk/src/com/qiniu/util
+END
+StringMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/DecryptStranger-android/!svn/ver/422/trunk/src/com/qiniu/util/StringMap.java
+END
+Dns.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/DecryptStranger-android/!svn/ver/422/trunk/src/com/qiniu/util/Dns.java
+END
+Base64.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/DecryptStranger-android/!svn/ver/422/trunk/src/com/qiniu/util/Base64.java
+END
+Auth.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/DecryptStranger-android/!svn/ver/422/trunk/src/com/qiniu/util/Auth.java
+END
+Etag.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/DecryptStranger-android/!svn/ver/422/trunk/src/com/qiniu/util/Etag.java
+END
+Json.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/DecryptStranger-android/!svn/ver/422/trunk/src/com/qiniu/util/Json.java
+END
+StringUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/DecryptStranger-android/!svn/ver/422/trunk/src/com/qiniu/util/StringUtils.java
+END
+Crc32.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/DecryptStranger-android/!svn/ver/422/trunk/src/com/qiniu/util/Crc32.java
+END
+UrlSafeBase64.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/DecryptStranger-android/!svn/ver/422/trunk/src/com/qiniu/util/UrlSafeBase64.java
+END

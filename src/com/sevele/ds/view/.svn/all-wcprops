@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/DecryptStranger-android/!svn/ver/1004/trunk/src/com/sevele/ds/view
+END
+GameView.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/DecryptStranger-android/!svn/ver/870/trunk/src/com/sevele/ds/view/GameView.java
+END
+TitleBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/DecryptStranger-android/!svn/ver/1004/trunk/src/com/sevele/ds/view/TitleBar.java
+END
+ImageGridSingleTypeView.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DecryptStranger-android/!svn/ver/1003/trunk/src/com/sevele/ds/view/ImageGridSingleTypeView.java
+END
+PickPhotoSingleTypeView.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DecryptStranger-android/!svn/ver/1003/trunk/src/com/sevele/ds/view/PickPhotoSingleTypeView.java
+END
+EditTextWithDel.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/DecryptStranger-android/!svn/ver/880/trunk/src/com/sevele/ds/view/EditTextWithDel.java
+END
+CircleImageView.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/DecryptStranger-android/!svn/ver/878/trunk/src/com/sevele/ds/view/CircleImageView.java
+END
+CustomViewPager.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/DecryptStranger-android/!svn/ver/879/trunk/src/com/sevele/ds/view/CustomViewPager.java
+END
+Card.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/DecryptStranger-android/!svn/ver/870/trunk/src/com/sevele/ds/view/Card.java
+END

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/DecryptStranger-android/!svn/ver/975/trunk/src/com/sevele/ds/activity
+END
+DecryptgameActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DecryptStranger-android/!svn/ver/964/trunk/src/com/sevele/ds/activity/DecryptgameActivity.java
+END
+RegisterActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/DecryptStranger-android/!svn/ver/967/trunk/src/com/sevele/ds/activity/RegisterActivity.java
+END
+MainActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DecryptStranger-android/!svn/ver/1033/trunk/src/com/sevele/ds/activity/MainActivity.java
+END
+ImageGridActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DecryptStranger-android/!svn/ver/939/trunk/src/com/sevele/ds/activity/ImageGridActivity.java
+END
+PreviewActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DecryptStranger-android/!svn/ver/802/trunk/src/com/sevele/ds/activity/PreviewActivity.java
+END
+AboutActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DecryptStranger-android/!svn/ver/823/trunk/src/com/sevele/ds/activity/AboutActivity.java
+END
+IntroductionActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DecryptStranger-android/!svn/ver/826/trunk/src/com/sevele/ds/activity/IntroductionActivity.java
+END
+LocationActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DecryptStranger-android/!svn/ver/1032/trunk/src/com/sevele/ds/activity/LocationActivity.java
+END
+UserInfoActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/DecryptStranger-android/!svn/ver/967/trunk/src/com/sevele/ds/activity/UserInfoActivity.java
+END
+LoginActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/DecryptStranger-android/!svn/ver/1033/trunk/src/com/sevele/ds/activity/LoginActivity.java
+END
+SettingActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DecryptStranger-android/!svn/ver/965/trunk/src/com/sevele/ds/activity/SettingActivity.java
+END
+SplashActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/DecryptStranger-android/!svn/ver/833/trunk/src/com/sevele/ds/activity/SplashActivity.java
+END
+ChatActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DecryptStranger-android/!svn/ver/1019/trunk/src/com/sevele/ds/activity/ChatActivity.java
+END
+BaseActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/DecryptStranger-android/!svn/ver/728/trunk/src/com/sevele/ds/activity/BaseActivity.java
+END
+PickPhotoActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DecryptStranger-android/!svn/ver/802/trunk/src/com/sevele/ds/activity/PickPhotoActivity.java
+END
+InfoDetailsActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DecryptStranger-android/!svn/ver/929/trunk/src/com/sevele/ds/activity/InfoDetailsActivity.java
+END
+FindFriendsActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DecryptStranger-android/!svn/ver/951/trunk/src/com/sevele/ds/activity/FindFriendsActivity.java
+END
+SensorActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/DecryptStranger-android/!svn/ver/831/trunk/src/com/sevele/ds/activity/SensorActivity.java
+END
+TitleBarActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/DecryptStranger-android/!svn/ver/975/trunk/src/com/sevele/ds/activity/TitleBarActivity.java
+END
+StrangerShakedActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/DecryptStranger-android/!svn/ver/972/trunk/src/com/sevele/ds/activity/StrangerShakedActivity.java
+END

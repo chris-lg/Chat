@@ -1,0 +1,79 @@
+8
+
+dir
+1004
+http://code.taobao.org/svn/DecryptStranger-android/trunk/src/com/qiniu/storage
+http://code.taobao.org/svn/DecryptStranger-android
+
+
+
+2015-05-07T05:47:42.508010Z
+422
+liuge
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4612cd76-46d5-4f03-8d3f-699a09f191f4
+
+BucketManager.java
+file
+
+
+
+
+2015-04-23T05:52:18.060000Z
+27204a7f7891384481e9fd5fbf6f2f38
+2015-05-07T05:47:42.508010Z
+422
+liuge
+
+FormUploader.java
+file
+
+
+
+
+2015-04-23T05:47:37.173000Z
+78cd0c3fc96516029480c166ec7c2921
+2015-05-07T05:47:42.508010Z
+422
+liuge
+
+ResumeUploader.java
+file
+
+
+
+
+2015-04-23T05:52:25.973000Z
+a1a162f87e61f5801d7bd5f92480b8ee
+2015-05-07T05:47:42.508010Z
+422
+liuge
+
+UploadManager.java
+file
+
+
+
+
+2015-04-23T05:52:32.567000Z
+0fcc8c7c227935c3195397b30d5ab493
+2015-05-07T05:47:42.508010Z
+422
+liuge
+
+model
+dir
+

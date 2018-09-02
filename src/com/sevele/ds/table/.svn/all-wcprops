@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/DecryptStranger-android/!svn/ver/999/trunk/src/com/sevele/ds/table
+END
+ChatContentTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DecryptStranger-android/!svn/ver/397/trunk/src/com/sevele/ds/table/ChatContentTable.java
+END
+UserTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/DecryptStranger-android/!svn/ver/942/trunk/src/com/sevele/ds/table/UserTable.java
+END
+StrangerTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DecryptStranger-android/!svn/ver/629/trunk/src/com/sevele/ds/table/StrangerTable.java
+END
+EntityBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/DecryptStranger-android/!svn/ver/974/trunk/src/com/sevele/ds/table/EntityBase.java
+END
+FriendTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/DecryptStranger-android/!svn/ver/644/trunk/src/com/sevele/ds/table/FriendTable.java
+END
+MsgBeanTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/DecryptStranger-android/!svn/ver/942/trunk/src/com/sevele/ds/table/MsgBeanTable.java
+END
+PushMessageTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DecryptStranger-android/!svn/ver/893/trunk/src/com/sevele/ds/table/PushMessageTable.java
+END

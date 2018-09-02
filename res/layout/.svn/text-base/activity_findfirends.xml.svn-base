@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <include
+        android:id="@+id/findfriends_title"
+        layout="@layout/banner" />
+
+    <RelativeLayout
+        android:id="@+id/relative_find_friends"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_below="@id/findfriends_title"
+        android:layout_marginTop="10dp"
+        android:background="@color/frenchgrey" >
+
+        <ImageView
+            android:id="@+id/img_find_friends"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:src="@drawable/icon_find_friends" />
+
+        <EditText
+            android:id="@+id/edit_find_friends"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="10dp"
+            android:layout_toLeftOf="@+id/btn_find_friends"
+            android:layout_toRightOf="@id/img_find_friends"
+            android:background="@null"
+            android:hint="@string/find_friends_two"
+            android:textColor="@color/white"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/btn_find_friends"
+            android:layout_width="60dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginEnd="10dp"
+            android:background="@drawable/btn_find_friends_selector"
+            android:text="@string/btn_find_friends"
+            android:textColor="@color/white" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/relative_findfriendinfo"
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:layout_below="@id/relative_find_friends"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/user_relative_selector"
+        android:visibility="gone" >
+
+        <ImageView
+            android:id="@+id/img_findfriend"
+            android:layout_width="55dp"
+            android:layout_height="55dp"
+            android:layout_margin="10dp"
+            android:src="@drawable/all_avatar_user_default" />
+
+        <TextView
+            android:id="@+id/txt_findfriend"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/img_findfriend"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_alignParentBottom="true"
+            android:background="@color/frenchgrey" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_alignParentTop="true"
+            android:background="@color/frenchgrey" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/txt_find_hint"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="@string/find_friends_hint"
+        android:textColor="@color/frenchgrey"
+        android:textSize="30sp" />
+
+</RelativeLayout>

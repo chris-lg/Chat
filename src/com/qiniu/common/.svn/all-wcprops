@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/DecryptStranger-android/!svn/ver/973/trunk/src/com/qiniu/common
+END
+Config.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/DecryptStranger-android/!svn/ver/422/trunk/src/com/qiniu/common/Config.java
+END
+GetToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/DecryptStranger-android/!svn/ver/422/trunk/src/com/qiniu/common/GetToken.java
+END
+QiniuException.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/DecryptStranger-android/!svn/ver/973/trunk/src/com/qiniu/common/QiniuException.java
+END

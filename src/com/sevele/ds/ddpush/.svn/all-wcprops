@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/DecryptStranger-android/!svn/ver/995/trunk/src/com/sevele/ds/ddpush
+END
+PushInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/DecryptStranger-android/!svn/ver/1017/trunk/src/com/sevele/ds/ddpush/PushInfo.java
+END
+BootAlarmReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DecryptStranger-android/!svn/ver/650/trunk/src/com/sevele/ds/ddpush/BootAlarmReceiver.java
+END
+TickAlarmReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DecryptStranger-android/!svn/ver/995/trunk/src/com/sevele/ds/ddpush/TickAlarmReceiver.java
+END
+ConnectivityAlarmReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/DecryptStranger-android/!svn/ver/819/trunk/src/com/sevele/ds/ddpush/ConnectivityAlarmReceiver.java
+END
+OnlineService.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/DecryptStranger-android/!svn/ver/1037/trunk/src/com/sevele/ds/ddpush/OnlineService.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/DecryptStranger-android/!svn/ver/422/trunk/src/com/qiniu/storage/model
+END
+DefaultPutRet.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/DecryptStranger-android/!svn/ver/422/trunk/src/com/qiniu/storage/model/DefaultPutRet.java
+END
+ResumeBlockInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/DecryptStranger-android/!svn/ver/422/trunk/src/com/qiniu/storage/model/ResumeBlockInfo.java
+END
+BatchStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/DecryptStranger-android/!svn/ver/422/trunk/src/com/qiniu/storage/model/BatchStatus.java
+END
+FileInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/DecryptStranger-android/!svn/ver/422/trunk/src/com/qiniu/storage/model/FileInfo.java
+END
+FileListing.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/DecryptStranger-android/!svn/ver/422/trunk/src/com/qiniu/storage/model/FileListing.java
+END

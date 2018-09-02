@@ -1,0 +1,52 @@
+8
+
+dir
+1004
+http://code.taobao.org/svn/DecryptStranger-android/trunk/src/com/sevele/ds/parsers
+http://code.taobao.org/svn/DecryptStranger-android
+
+
+
+2015-05-28T08:50:32.660318Z
+976
+liuge
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+4612cd76-46d5-4f03-8d3f-699a09f191f4
+
+BeanJsonConvert.java
+file
+
+
+
+
+2015-05-28T08:50:20.447000Z
+87e63af24c6414419226bf296e84e7e0
+2015-05-28T08:50:32.660318Z
+976
+liuge
+
+JsonPraser.java
+file
+
+
+
+
+2015-05-27T13:45:38.931000Z
+5c0ad0e340bcac9ebd6cca4ed390b863
+2015-05-27T13:44:41.411550Z
+967
+maozhiqi1204
+
